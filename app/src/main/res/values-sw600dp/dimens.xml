@@ -1,0 +1,32 @@
+<resources>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+
+
+    <dimen name="margin_2dp">3.72dp</dimen>
+    <dimen name="margin_3dp">5.58dp</dimen>
+    <dimen name="margin_4dp">7.44dp</dimen>
+    <dimen name="margin_6dp">11.16dp</dimen>
+    <dimen name="margin_8dp">14.88dp</dimen>
+    <dimen name="margin_10dp">18.6dp</dimen>
+    <dimen name="margin_14dp">26.04dp</dimen>
+    <dimen name="margin_15dp">27.9dp</dimen>
+    <dimen name="margin_20dp">37.2dp</dimen>
+    <dimen name="margin_25dp">46.875dp</dimen>
+    <dimen name="margin_30dp">55.8dp</dimen>
+    <dimen name="margin_35dp">65.1dp</dimen>
+    <dimen name="margin_40dp">74.4dp</dimen>
+    <dimen name="margin_48dp">89.28dp</dimen>
+    <dimen name="margin_50dp">93dp</dimen>
+    <dimen name="margin_55dp">102.3dp</dimen>
+    <dimen name="margin_64dp">119dp</dimen>
+    <dimen name="margin_80dp">148.8dp</dimen>
+    <dimen name="margin_100dp">180dp</dimen>
+    <dimen name="margin_150dp">279dp</dimen>
+    <dimen name="margin_120dp">223.2dp</dimen>
+    <dimen name="margin_180dp">334.8dp</dimen>
+    <dimen name="margin_200dp">372dp</dimen>
+    <dimen name="margin_250dp">465dp</dimen>
+    <dimen name="margin_300dp">558dp</dimen>
+
+</resources>

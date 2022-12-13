@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85006786932",
+    "project_id": "online-book-24137",
+    "storage_bucket": "online-book-24137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85006786932:android:8f8008f6edbd5628bb0c21",
+        "android_client_info": {
+          "package_name": "com.sunayanpradhan.onlinebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85006786932-urq3p16vgqffod4bj3o1aaeik8hl2v5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNJ7SzqfBa82yLZir5uL_WTh8PNZDa-6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85006786932-urq3p16vgqffod4bj3o1aaeik8hl2v5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
